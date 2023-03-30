@@ -49,8 +49,6 @@ const JobDetails = () => {
     }
   };
 
-  console.log(data)
-
   return (
     <SafeAreaView
       style={{ flex: 1, backgroundColor: COLORS.lightWhite }}
